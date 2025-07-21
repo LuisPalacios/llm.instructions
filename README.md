@@ -43,17 +43,20 @@ To contribute a new instruction set:
 ## 📂 Folder Structure
 
 ```shell
-/topics/
-  ├── dev.scripting/
-  │   ├── shell.scripts.md
-  │   ├── powershell.md
-  │   ├── :
-  │   └── README.md
-  ├── ai/
-  ├── cpp-development/
-  ├── prompt-engineering/
-  ├── networking/
-  └── ...
+ .
+├──  llms
+│   └──  chatgpt-instructions.md
+├──  topics
+│   ├──  ai
+│   │   └──  aaa.agency.md
+│   ├──  dev.cpp
+│   │   └──  cpp.dev.md
+│   ├──  dev.fullstack
+│   │   └──  fullstack.dev.md
+│   └──  dev.scripting
+│       └──  shell.scripts.md
+├──  LICENSE
+└──  README.md
 ```
 
 ---
